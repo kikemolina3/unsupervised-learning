@@ -12,15 +12,15 @@ Apply and compare the results from five different unsupervised learning techniqu
 #### Data
 The unsupervised learning techniques must be applied on two datasets:
 1. Synthetic dataset (A3-data.txt):
-o Features: 4 variables, 1 class
-o Patterns: 360 patterns
-o The class information must “not” be used in the unsupervised learning, only
+- Features: 4 variables, 1 class
+- Patterns: 360 patterns
+- The class information must “not” be used in the unsupervised learning, only
 to identify the classes in the plots
 2. Search a dataset from the Internet, with the following characteristics:
-o Features: at least 6 variables, and a class attribute
-o The class attribute must refer to, at least, 4 different classes
-o Patterns: at least 200 patterns
-o The class information must “not” be used in the unsupervised learning, only
+- Features: at least 6 variables, and a class attribute
+-  The class attribute must refer to, at least, 4 different classes
+- Patterns: at least 200 patterns
+-  The class information must “not” be used in the unsupervised learning, only
 to identify the classes in the plots
 
 #### Unsupervised learning
